@@ -1,4 +1,4 @@
-# App-Maker-AI# Autonomy Through ChatGPT (POC 2)
+# App-Maker-AI
 
 ## Overview
 
