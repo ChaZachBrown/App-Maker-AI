@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python application leverages the capabilities of GPT-4 to grant GPT-4 autonomous control over an operating system. By using a custom system prompt with a JSON protocol, GPT-4 can write text to files, execute CLI commands, and perform a range of other actions, including debugging and running code. This is essentially an LLM autonomous agent created on March 20th, prior to the release of similar technologies like AutoGPT and ChatGPT code interpreter. I created this app for two main reasons. To test the ability of ChatGPT-4 as a coding assistant, 95% of the code was written by ChatGPT. The second reason was to test its ability to act autonomously and create code without having to copy/paste and debug. I created this before I knew what the formal definition of an autonomous LLM agent was.
+This Python application leverages the capabilities of GPT-4 to grant GPT-4 autonomous control over an operating system. By using a custom system prompt with a JSON protocol, GPT-4 can write text to files, execute CLI commands, and perform a range of other actions, including debugging and running code. This is essentially an LLM autonomous agent created on March 20th, prior to the release of similar technologies like AutoGPT and ChatGPT code interpreter. I created this app for two main reasons. To test the ability of ChatGPT-4 as a coding assistant, 95% of the code was written by ChatGPT. The second reason was to test its ability to act autonomously and create code without having to copy/paste and debug..
 
 ---
 
